@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+client/node_modules/
+client/build/
+.env
+*.log
